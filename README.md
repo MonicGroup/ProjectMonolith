@@ -8,7 +8,6 @@
 	Ut enim adminim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 	Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 	Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-****
 
 이라는 말이 있습니다.
 우리는 이를 본받아 더욱 더 열심히 이곳에 할당된 공간을 채워 나갈 것입니다
